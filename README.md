@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jirayus 👋
+# Hi, I'm Jirayus (Ferm)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Node.js;Java+Spring+Boot+%E2%98%95;Open+to+Work+%E2%80%94+May+2026+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
