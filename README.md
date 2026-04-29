@@ -2,15 +2,15 @@
 
 # Hi, I'm Jirayus 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Node.js;Java+Spring+Boot+%E2%98%95;Open+to+Work+%E2%80%94+May+2026+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Node.js;Java+Spring+Boot+%E2%98%95;Open+to+Work+%E2%80%94+May+2026+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 <br/>
 
 **Computer Science · KMUTNB · Class of 2026**
 
-[![GitHub](https://img.shields.io/badge/GitHub-fermfirxzer-181717?style=for-the-badge&logo=github)](https://github.com/fermfirxzer)
-[![Gmail](https://img.shields.io/badge/Gmail-jirayusfirxzer@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jirayusfirxzer@gmail.com)
-![Available](https://img.shields.io/badge/Available-May%202026-2ea44f?style=for-the-badge)
+📧 [jirayusfirxzer@gmail.com](mailto:jirayusfirxzer@gmail.com) &nbsp;|&nbsp;
+🐙 [github.com/fermfirxzer](https://github.com/fermfirxzer) &nbsp;|&nbsp;
+🟢 Available from May 2026
 
 </div>
 
