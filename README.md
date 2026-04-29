@@ -1,10 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27217325/README.md)
-## Hi there 👋
-
-<!--
-**fermfirxzer/fermfirxzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you # `> JIRAYUS MOOLSART` &nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1C1C1C&width=435&lines=Full+Stack+Developer;Java+Spring+Boot+%7C+React+%7C+Next.js;Available+May+2026)](https://git.io/typing-svg)
+# `> JIRAYUS MOOLSART` &nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1C1C1C&width=435&lines=Full+Stack+Developer;Java+Spring+Boot+%7C+React+%7C+Next.js;Available+May+2026)](https://git.io/typing-svg)
 
 ```
 █░░ █▀█ ▄▀█ █▀▄ █ █▄░█ █▀▀   █▀█ █▀█ █▀█ ▀█▀ █▀▀ █▀█ █░░ █ █▀█
@@ -164,14 +158,3 @@ $ curl -X POST contact \
 ![Visitor Count](https://komarev.com/ghpvc/?username=fermfirxzer&color=1c1c1c&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
-started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
