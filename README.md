@@ -22,7 +22,7 @@ I'm a Computer Science student at **King Mongkut's University of Technology Nort
 
 - 🏢 7 months of **production-level internship** experience at SciCap Co., Ltd.
 - 💻 Building full-stack apps with **React, Next.js, Node.js** and **Java Spring Boot**
-- 🎓 GPA **3.31 / 4.00**
+- 🎓 GPA **3.32 / 4.00**
 - 📍 Bangkok, Thailand
 - 🟢 Open to full-time **Full Stack / Back-End** roles from May 2026
 
