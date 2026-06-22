@@ -99,7 +99,7 @@ I'm a Computer Science student at **King Mongkut's University of Technology Nort
 
 **Bachelor of Science — Computer Science**
 King Mongkut's University of Technology North Bangkok (KMUTNB)
-Faculty of Applied Science &nbsp;·&nbsp; 2022 – 2026 &nbsp;·&nbsp; **GPA 3.31 / 4.00**
+Faculty of Applied Science &nbsp;·&nbsp; 2022 – 2026 &nbsp;·&nbsp; **GPA 3.32 / 4.00**
 
 ---
 
